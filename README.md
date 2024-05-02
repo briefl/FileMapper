@@ -8,6 +8,9 @@ FileMapper - это фреймворк, упрощающий открытие ф
 
 # Установка
 
+Расммотрим установку на Linux Unbuntu
+
+
 Скачайте и установите бесплатную комьюните версию Qt Framework.(https://www.qt.io/product/framework)
 ![изображение](https://github.com/briefl/FileMapper/assets/168663803/b3618322-8c44-4e8f-b808-d41a5f91d22d)
 
